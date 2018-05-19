@@ -1,0 +1,13 @@
+.form-control {
+    display: inline-block;
+    width: 250px;
+    margin-top: 50px;
+  }
+  h1 {
+    color: lightgray;
+  }
+  
+  body {
+    background-color: rgb(181, 183, 199);
+  }
+  
